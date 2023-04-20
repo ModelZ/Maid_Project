@@ -6,7 +6,7 @@
 using namespace std;
 using namespace cv;
 
-void Camera()
+void asasa()
 {   
 	// Open Camera Class 0 is index of camera (If multiple)
 	VideoCapture cap = VideoCapture(0);

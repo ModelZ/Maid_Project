@@ -137,6 +137,7 @@
     <ClCompile Include="Drawing.cpp" />
     <ClCompile Include="imageFaceDetect.cpp" />
     <ClCompile Include="ImportVideo.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="MouseEvent.cpp" />
     <ClCompile Include="RecordVideo.cpp" />
     <ClCompile Include="Test.cpp" />

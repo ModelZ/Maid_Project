@@ -51,6 +51,9 @@
     <ClCompile Include="videoFaceDetection.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\Maid_Camera\test\Image\kokomi.jpg">

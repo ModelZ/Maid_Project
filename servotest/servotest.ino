@@ -6,11 +6,11 @@ char user_input ;
 
 void setup() {
   Serial.begin(9600);
-  myservo.attach(5); // กำหนดขา 5 ของ Servo
+  myservo.attach(3); // กำหนดขา 5 ของ Servo
 }
 
 void loop() {
-  
+  /*
   if (Serial.available()>0)
   {
     char select_mode = Serial.read();
@@ -53,6 +53,11 @@ void loop() {
     Serial.println("Servo 180 degree");
     myservo.write(180);
     delay(1000);
-  }
+  } 
+*/
+    myservo.write(180);
+    delay(1000);
+    myservo.write(0);
+    delay(1000);
   
 }
