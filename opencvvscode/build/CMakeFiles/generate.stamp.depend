@@ -1,0 +1,33 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CTest.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CTestTargets.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CTestUseLaunchers.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/DartConfiguration.tcl.in
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.25/Templates/CPackConfig.cmake.in
+E:/Microsoft Visual Studio/Maid_Project/opencvvscode/CMakeLists.txt
+E:/Microsoft Visual Studio/Maid_Project/opencvvscode/build/CMakeFiles/3.25.2/CMakeCCompiler.cmake
+E:/Microsoft Visual Studio/Maid_Project/opencvvscode/build/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake
+E:/Microsoft Visual Studio/Maid_Project/opencvvscode/build/CMakeFiles/3.25.2/CMakeRCCompiler.cmake
+E:/Microsoft Visual Studio/Maid_Project/opencvvscode/build/CMakeFiles/3.25.2/CMakeSystem.cmake
+E:/OpenCV/opencv/OpenCVConfig-version.cmake
+E:/OpenCV/opencv/OpenCVConfig.cmake

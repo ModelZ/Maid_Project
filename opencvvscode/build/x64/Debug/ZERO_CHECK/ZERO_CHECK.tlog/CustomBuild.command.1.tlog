@@ -1,0 +1,10 @@
+^E:\MICROSOFT VISUAL STUDIO\MAID_PROJECT\OPENCVVSCODE\BUILD\CMAKEFILES\13C112021BDFF106C1DB8F71F8652297\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SE:/Microsoft Visual Studio/Maid_Project/opencvvscode" "-BE:/Microsoft Visual Studio/Maid_Project/opencvvscode/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "E:/Microsoft Visual Studio/Maid_Project/opencvvscode/build/TestOpenCVvscode.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

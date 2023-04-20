@@ -1,0 +1,9 @@
+E:/Microsoft Visual Studio/Maid_Project/opencvvscode/build/CMakeFiles/Experimental.dir
+E:/Microsoft Visual Studio/Maid_Project/opencvvscode/build/CMakeFiles/Nightly.dir
+E:/Microsoft Visual Studio/Maid_Project/opencvvscode/build/CMakeFiles/Continuous.dir
+E:/Microsoft Visual Studio/Maid_Project/opencvvscode/build/CMakeFiles/NightlyMemoryCheck.dir
+E:/Microsoft Visual Studio/Maid_Project/opencvvscode/build/CMakeFiles/TestOpenCVvscode.dir
+E:/Microsoft Visual Studio/Maid_Project/opencvvscode/build/CMakeFiles/PACKAGE.dir
+E:/Microsoft Visual Studio/Maid_Project/opencvvscode/build/CMakeFiles/RUN_TESTS.dir
+E:/Microsoft Visual Studio/Maid_Project/opencvvscode/build/CMakeFiles/ALL_BUILD.dir
+E:/Microsoft Visual Studio/Maid_Project/opencvvscode/build/CMakeFiles/ZERO_CHECK.dir

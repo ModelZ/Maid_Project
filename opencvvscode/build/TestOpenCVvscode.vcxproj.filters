@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Microsoft Visual Studio\Maid_Project\opencvvscode\videoFaceDetection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Microsoft Visual Studio\Maid_Project\opencvvscode\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7BE9490D-6883-3D37-9C74-29DB0DB1EEE9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
